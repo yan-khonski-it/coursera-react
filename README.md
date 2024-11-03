@@ -4,6 +4,10 @@ Learning react
 https://www.coursera.org/learn/react-basics/
 
 # Setting up the project
+Clone the repository
+```
+git clone https://github.com/yan-khonski-it/coursera-react.git
+```
 
 Install node.js
 https://nodejs.org/en/download/prebuilt-binaries
@@ -28,3 +32,20 @@ Prints
 ```
 10.9.0
 ```
+
+# Technical notes
+Create react app
+```
+npm init react-app firstapp
+```
+Navigate to firstapp directory
+```
+cd firstapp
+```
+And start dev server
+```
+npm start
+```
+
+Quick getting started
+https://react.dev/learn
